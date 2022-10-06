@@ -1,1 +1,1 @@
-shell permission
+sets the mode of the file hello
